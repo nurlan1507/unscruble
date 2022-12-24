@@ -18,6 +18,7 @@ package com.example.android.unscramble
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
 /**
  * Creates an Activity that hosts the Game fragment in the app
